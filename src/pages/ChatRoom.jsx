@@ -1,4 +1,4 @@
-ChatRoom.jsximport ChatBox from '../components/ChatBox';
+import ChatBox from '../components/ChatBox';
 import SendMessage from '../components/SendMessage';
 export const ChatRoom = () => {
   return (
